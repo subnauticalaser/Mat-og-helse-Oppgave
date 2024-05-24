@@ -6,3 +6,7 @@
 
 ### 1.
 Vi kunne kanskje ha begynt å spise mindre kjøtt, men det vil kanskje vært dårlig for oss og kutte helt ut siden vi må ha litte grann kjøtt for å overleve
+
+
+## Link to Video
+[nrk.no](https://tv.nrk.no/serie/line-fikser-maten/sesong/1/episode/1/avspiller)
