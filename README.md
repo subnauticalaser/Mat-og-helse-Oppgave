@@ -9,4 +9,4 @@ Vi kunne kanskje ha begynt å spise mindre kjøtt, men det vil kanskje vært då
 
 
 ## Link to Video
-[nrk.no](https://tv.nrk.no/serie/line-fikser-maten/sesong/1/episode/1/avspiller)
+[`Video - NRK`](https://tv.nrk.no/serie/line-fikser-maten/sesong/1/episode/1/avspiller)
